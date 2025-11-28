@@ -2,7 +2,7 @@
 
 DevFlow is a full-stack application designed to streamline developer workflows, manage tasks, and provide insightful analytics for team performance.
 
-![DevFlow Demo](media/frontend%20and%201%20more%20page%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%202025-11-28%2022-49-45.mp4)
+https://github.com/user-attachments/assets/7d11b674-ec01-4590-93d2-6a23d443e86e
 
 ![Focus Mode Screenshot](attachments/focus-mode-screenshot.png)
 
