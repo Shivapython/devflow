@@ -7,16 +7,6 @@ https://github.com/user-attachments/assets/7d11b674-ec01-4590-93d2-6a23d443e86e
 
 
 
-
----
-
-
-## 🖼️ Screenshots
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2cd84c5a-76bd-46bb-b2b3-ffd41407b4f2" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2b19053a-0409-4dcf-b89d-368dcca9c724" /> 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/944dc28d-f7d2-450d-ba39-abb11ab1b789" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c5d9b656-48bc-43f6-8508-c9ec064328cb" /> 
 ---
 
 ## 🚀 Features
@@ -42,6 +32,18 @@ https://github.com/user-attachments/assets/7d11b674-ec01-4590-93d2-6a23d443e86e
 - **Recharts**: Data visualization
 - **DnD Kit**: Drag-and-drop interactions
 - **Axios**: API communication
+
+---
+
+
+
+## 🖼️ Screenshots
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2cd84c5a-76bd-46bb-b2b3-ffd41407b4f2" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2b19053a-0409-4dcf-b89d-368dcca9c724" /> 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/944dc28d-f7d2-450d-ba39-abb11ab1b789" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c5d9b656-48bc-43f6-8508-c9ec064328cb" /> 
+
 
 ---
 
