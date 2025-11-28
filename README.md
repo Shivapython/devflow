@@ -4,11 +4,14 @@ DevFlow is a full-stack application designed to streamline developer workflows, 
 
 https://github.com/user-attachments/assets/7d11b674-ec01-4590-93d2-6a23d443e86e
 
-![Focus Mode Screenshot](attachments/focus-mode-screenshot.png)
+
+
 
 
 ---
-## Screenshots
+
+
+## 🖼️ Screenshots
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2cd84c5a-76bd-46bb-b2b3-ffd41407b4f2" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2b19053a-0409-4dcf-b89d-368dcca9c724" /> 
@@ -128,15 +131,6 @@ devflow/
 
 ---
 
-## 🖼️ Screenshots
-
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Preview)
-
-### Kanban Board
-![Kanban Board](https://via.placeholder.com/800x400?text=Kanban+Board+Preview)
-
----
 
 ## 🧰 Troubleshooting
 
